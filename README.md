@@ -48,3 +48,10 @@ See the visual results over iteration
 
 ![Screenshot](Assets/bike_training.png)
 
+# Checkout the prediction results
+I use the test data to show how well the neural network is modeling the data.
+
+![Screenshot](Assets/output.png)
+
+# Results
+As we can see, the model overestimates bike ridership in December because it hasn't had sufficient holiday season training examples. The predictions generally are quite accurate, though!
